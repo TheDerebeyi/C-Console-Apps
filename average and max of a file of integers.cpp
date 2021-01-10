@@ -1,4 +1,5 @@
 //Created by Mert Kahraman
+//Open and read a file of integers into an array that is created with the first integer telling you how many to read.
 
 #include <stdio.h>
 
