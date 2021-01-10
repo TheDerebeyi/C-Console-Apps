@@ -1,11 +1,10 @@
 //Created by Mert Kahraman
-
-//Generates 100 random numbers, sorts them and prints to the console. ,
+//Use the linear linked list code to store a randomly generated set of 100 integers.
+//Now write a routine that will rearrange the list in sorted order of these values.
+//Note you might want to use bubble sort to do this. Print these values in rows of 5 on the screen.
 
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <time.h>
 
 typedef struct list { int data; struct list* next; } list;
