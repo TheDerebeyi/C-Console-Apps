@@ -1,4 +1,6 @@
 // Created by Mert Kahraman. September 18, 2020.
+//Compute the average weight for a population of elephant seals read into an array. Use "elephant weigt data.txt" for data.
+
 #include <stdio.h>
 
 int main() {
